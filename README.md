@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-## Isometric Commit Calendar
-
-![Isometric Commit Calendar](isometric-contributions.png)
-
-
 <!--
 **vAsilivAn0v/vAsilivAn0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
