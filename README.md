@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-## Isometric Commit Calendar
-
-![Isometric Commit Calendar](isometric-contributions.png)
 
 
 <!--
