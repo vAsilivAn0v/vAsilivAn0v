@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Генериране на изометричен commit календар
-        uses: jasonlong/isometric-contributions@v1.1.0
+        uses: jasonlong/isometric-contributions@main
         with:
           username: ${{ github.repository_owner }}
           output: ./isometric-contributions.png
@@ -29,3 +29,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
